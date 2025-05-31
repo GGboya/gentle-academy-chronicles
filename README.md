@@ -37,7 +37,7 @@ gentle-academy-chronicles/
 ### 🔥 正在进行
 | 活动名称 | 时间 | 类型 | 状态 | 报名 |
 |----------|------|------|------|------|
-| [hot100竞速赛](./2025/06-June/activities/hot100-contest.md) | 2025年6月第二周 | 编程竞赛 | 📋 报名中 | [立即报名](#报名方式) |
+| [hot100竞速赛](./2025/06-June/activities/hot100-contest.md) | 2025年6月第二周 | 编程竞赛 | 📋 报名中 | [立即报名](https://docs.qq.com/sheet/DR2R1RkVwbkxJT0p3?tab=BB08J2) |
 
 ### 📊 2025年活动概览
 | 月份 | 主要活动 | 参与人数 | 状态 |
